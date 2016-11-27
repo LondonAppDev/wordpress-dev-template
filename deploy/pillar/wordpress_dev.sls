@@ -9,7 +9,7 @@ wordpress_sites:
     db_connection_user: "root"
     db_connection_user_pass: "password"
     sites:
-        londonappdev:
+        wordpress_dev:
             site_domain: "local.wordpress.dev"
             db_host: "localhost"
             db_name: "wordpress_db"

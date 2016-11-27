@@ -11,7 +11,7 @@ gulp:
     npm.installed:
         - user: root
 
-/usr/local/webapps/wordpress/wordpress/wp-content/themes/dev_theme:
+/usr/local/webapps/wordpress_dev/wordpress/wp-content/themes/dev_theme:
     file.symlink:
         - target: /vagrant/dist
         - user: www-data

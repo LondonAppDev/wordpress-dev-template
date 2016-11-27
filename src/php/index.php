@@ -1,1 +1,1 @@
-<h1>This is the dev theme</h1>
+<h1>Start your theme here...</h1>
