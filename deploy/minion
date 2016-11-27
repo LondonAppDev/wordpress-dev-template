@@ -1,0 +1,13 @@
+file_client: local
+
+fileserver_backend:
+    - roots
+    - git
+
+gitfs_base: develop
+
+gitfs_remotes:
+    - https://github.com/LondonAppDev/lad-deploy-nodejs-formula.git
+    - https://github.com/LondonAppDev/lad-deploy-mariadb-fomula.git
+    - https://github.com/LondonAppDev/lad-deploy-nginx-formula.git
+    - https://github.com/LondonAppDev/lad-deploy-wordpress-sites-formula.git
