@@ -10,7 +10,7 @@ wordpress_sites:
     db_connection_user_pass: "password"
     sites:
         wordpress_dev:
-            site_domain: "local.wordpress.dev"
+            site_domain: "localhost"
             db_host: "localhost"
             db_name: "wordpress_db"
             db_user: "wordpress"
